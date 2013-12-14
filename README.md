@@ -44,7 +44,7 @@ sysViewer({'\phi' [-pi pi]}, ...
           'flow'); 
 ```
 
-!(https://github.com/hsharrison/sysviewer/blob/master/1dexample.png)
+![alt text](http://i.imgur.com/lYYOS8R.png "1D example")
 
 *Two-dimensional*
 
@@ -55,7 +55,7 @@ sysViewer('x' [-5 5]; '\dot{x}' [-5 5]}, ...
           'flow') 
 ```
 
-!(https://github.com/hsharrison/sysviewer/blob/master/2dexample.png)
+![alt text](http://i.imgur.com/L8qBqcM.png "2d example")
 
 Dependencies
 -----
