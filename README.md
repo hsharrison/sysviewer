@@ -44,6 +44,8 @@ sysViewer({'\phi' [-pi pi]}, ...
           'flow'); 
 ```
 
+(https://github.com/hsharrison/sysviewer/blob/master/1dexample.png)
+
 *Two-dimensional*
 
 ```matlab
@@ -52,6 +54,8 @@ sysViewer('x' [-5 5]; '\dot{x}' [-5 5]}, ...
           {@(x,dx,r) dx, @(x,dx,r) -r(1).*x.^3 - r(2).*x - r(3).*dx}, ... 
           'flow') 
 ```
+
+(https://github.com/hsharrison/sysviewer/blob/master/2dexample.png)
 
 Dependencies
 -----
