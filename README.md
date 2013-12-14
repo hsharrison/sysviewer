@@ -1,7 +1,7 @@
 sysViewer
 =====
 
-*Matlab Dynamical system graphical interface*
+*Matlab dynamical system graphical interface*
 
 `h = sysViewer(oPar, cPar, fcn, typ)` builds a GUI for viewing the effects of parameter changes on a one- or two-dimensional dynamical system. 
   
